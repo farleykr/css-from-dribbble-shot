@@ -3,3 +3,6 @@
 
 # virtual environment stuff
 venv
+
+# generated css files
+*.css

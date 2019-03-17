@@ -7,6 +7,10 @@ template = """
     color: {color};
 }}
 
+.bg-color-{num} {{
+    background-color: {color};
+}}
+
 """
 
 def get_shot_colors(shot_url):
